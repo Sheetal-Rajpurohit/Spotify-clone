@@ -1,6 +1,23 @@
 *{
     font-family: "Montserrat", serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
+    margin: 0;
+    background-color: #000; 
+    color: #fff;
+    overflow: hidden;
+  }
+
+  .main{
+    display: flex;
+  }
+
+  .sidebar{
+    background-color: red;
+  }
+
+  .main_content{
+    background-color: blue;
+  }
+
+  .music-player{
+    background-color: yellow;
   }
